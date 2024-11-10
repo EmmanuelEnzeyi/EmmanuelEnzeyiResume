@@ -6,6 +6,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
+If you want to view my life personal portfolio [CLICK HERE](https://www.twitter.com/EmmanuelEnzeyi)
+
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
@@ -37,7 +39,7 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/EmmanuelEnzeyi).
 
 ## License
 
